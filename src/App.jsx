@@ -6,6 +6,7 @@ import Cart from "./pages/Cart";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import {AuthRoute} from "./AuthRoute";
+import Success from "./pages/Success";
 
 const App = () => {
     return (
@@ -16,6 +17,7 @@ const App = () => {
                     <Route path="products/:category" element={<ProductList/>}></Route>
                     <Route path="product/:id" element={<Product/>}></Route>
                     <Route path="cart" element={<Cart/>}></Route>
+                    <Route path="success" element={<Success/>} />
                     <Route element={<AuthRoute/>}>
                         <Route path="login" element={<Login/>}/>
                         <Route path="register" element={<Register/>}/>

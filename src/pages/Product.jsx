@@ -7,7 +7,7 @@ import Announcement from "../components/Anouncement";
 import {Add, Remove} from "@material-ui/icons";
 import {mobile} from "../responsive";
 import {useParams} from "react-router-dom";
-import {publicRequest} from "../requestMethod";
+import {publicRequest} from "../requestMethods";
 import {useDispatch} from "react-redux";
 import {addProduct} from "../redux/cart";
 
