@@ -1,10 +1,10 @@
 export const sliderItems = [
     {
         id: 1,
-        img: "https://i.ibb.co/XsdmR2c/1.png",
+        img: "https://images.squarespace-cdn.com/content/v1/549d87c5e4b0d1a214a8f330/1466880805110-M854YWDDT8ZLI3Y852EH/ke17ZwdGBToddI8pDm48kOVBWIqTcOPDrcH10MzS2FcUqsxRUqqbr1mOJYKfIPR7PCykALxo9pVzSskFJymslV508XI857KkXWME9kBUmc0ic-L2IOPH3Dwrhl-Ne3Z2LNxshm8buHHRd69vxbLanXl3-wPOKFjUeMdOVnSupWgxb27qhdBlCJwccbVYQTp-/BEST+SUMMER+DRESSES+ON+SALE+AT+ASOS",
         title: "SUMMER SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-        bg: "f5fafd",
+        bg: "F5F5F5",
     },
     {
         id: 2,
